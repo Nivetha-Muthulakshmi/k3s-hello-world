@@ -1,4 +1,4 @@
-# k3s Hello World Deployment
+# k3s Hello World
 
 ## Overview
 
@@ -37,3 +37,4 @@ Deploy application:
 kubectl apply -f k8s/deployment.yaml
 kubectl apply -f k8s/service.yaml
 ```
+
